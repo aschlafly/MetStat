@@ -1,0 +1,597 @@
+gross_ceded,res_cat,entry_no,val_standard,val_rate,category,total,industrial,ordinary,credit,group
+gross,01,0100001,"Standard Industrial, 3.5%, 44 and prior               ",3.5%,Life Insurance,147739,147739,NA,NA,NA
+gross,01,0100002,"Standard Industrial, 4%, 41 and prior              ",4%,Life Insurance,165695232,165695232,NA,NA,NA
+gross,01,0100003,"Sub-Standard Industrial, 3.5%, 41 and prior                   ",3.5%,Life Insurance,16303,16303,NA,NA,NA
+gross,01,0100004,"Sub-Standard Industrial, 4%, 41 and prior, NB                      ",4%,Life Insurance,3382196,3382196,NA,NA,NA
+gross,01,0100005,"AE, 3%, 08-47  ",3%,Life Insurance,39233205,NA,39233205,NA,NA
+gross,01,0100006,"AE, 3.5%, 45 and prior      ",3.5%,Life Insurance,88604,NA,88604,NA,NA
+gross,01,0100007,"AM(5), 2.25% ",2.25%,Life Insurance,4729568,NA,NA,NA,4729568
+gross,01,0100008,"AM(5), 2.5 %",%,Life Insurance,223535,NA,218335,NA,5200
+gross,01,0100009,"AM(5), 2.75%, 42-47      ",2.75%,Life Insurance,199417943,NA,199417943,NA,NA
+gross,01,0100010,"AM(5), 3%, 45-47    ",3%,Life Insurance,36462,NA,36462,NA,NA
+gross,01,0100011,"41 STD IND, 2.5%, 48-65          ",2.5%,Life Insurance,4054687,4054687,NA,NA,NA
+gross,01,0100012,"41 STD IND, 2.5%, CRVM, 48-65                 ",2.5%,Life Insurance,39171,39171,NA,NA,NA
+gross,01,0100013,"41 STD IND, 2.75%, 42-47           ",2.75%,Life Insurance,302111,302111,NA,NA,NA
+gross,01,0100014,"41 STD IND, 3%, 45-47         ",3%,Life Insurance,98737,98737,NA,NA,NA
+gross,01,0100015,"41 STD IND, 3.5%, 46-64          ",3.5%,Life Insurance,709062928,709062928,NA,NA,NA
+gross,01,0100016,"41 STD IND, 4%, 42-45         ",4%,Life Insurance,182773012,182773012,NA,NA,NA
+gross,01,0100017,"130% 41 STD IND, 2.5%, 48-65, NB                   ",130%,Life Insurance,19082,19082,NA,NA,NA
+gross,01,0100018,"41 Sub-Std Ind, 2.5%, 48-54          ",2.5%,Life Insurance,635,635,NA,NA,NA
+gross,01,0100019,"41 Sub-Std Ind, 2.75%, 42-47            ",2.75%,Life Insurance,105239,105239,NA,NA,NA
+gross,01,0100020,"41 Sub-Std Ind, 3.5%, 46-54          ",3.5%,Life Insurance,6114420,6114420,NA,NA,NA
+gross,01,0100021,"41 Sub-Std Ind, 4%, 42-45         ",4%,Life Insurance,8900284,8900284,NA,NA,NA
+gross,01,0100022,"41 CSO, 2.5%, 47-66       ",2.5%,Life Insurance,2366502630,NA,2366115137,NA,387493
+gross,01,0100023,"41 CSO 2.5%, CRF, 47-66            ",2.5%,Life Insurance,46009885,NA,46009885,NA,NA
+gross,01,0100024,"41 CSO, 2.5%, 48-65 (NJ STD)              ",2.5%,Life Insurance,45334,NA,45334,NA,NA
+gross,01,0100025,"41 CSO, 2.5%, CRVM, 48-65              ",2.5%,Life Insurance,140380312,NA,140380312,NA,NA
+gross,01,0100026,"130% 41 CSO, 2.5%, 48-65             ",130%,Life Insurance,2799,NA,2799,NA,NA
+gross,01,0100027,"41 Special Class, 2.5%, 48-50           ",2.5%,Life Insurance,255878,NA,255878,NA,NA
+gross,01,0100028,"41 Special Class, 2.75%, 42-47            ",2.75%,Life Insurance,210554,NA,210554,NA,NA
+gross,01,0100029,"50 Special Class, 2.5%, 51-59           ",2.5%,Life Insurance,3692995,NA,3692995,NA,NA
+gross,01,0100030,"58 CSO, 2.5%, 63-92       ",2.5%,Life Insurance,136200424,NA,136200424,NA,NA
+gross,01,0100031,"58 CSO, 2.5 %, CRVM, 65-92              ",%,Life Insurance,2589413,NA,2589413,NA,NA
+gross,01,0100032,"58 CSO, 2.75%    ",2.75%,Life Insurance,41077,NA,NA,NA,41077
+gross,01,0100033,"58 CSO, 3% 61 and later, NB              ",3%,Life Insurance,10711671,NA,9091463,NA,1620208
+gross,01,0100034,"58 CSO, 3%, CRVM, 61 and later, NB                    ",3%,Life Insurance,531040,NA,531040,NA,NA
+gross,01,0100035,"58 CSO, 3%/20/2.5%, 65-73             ",3%,Life Insurance,1830545975,NA,1830545975,NA,NA
+gross,01,0100036,"58 CSO, 3%/20/2.5%, CRVM/GCV, 65-73                        ",3%,Life Insurance,568761987,NA,568761987,NA,NA
+gross,01,0100037,"58 CSO, 3.5%, 61-91       ",3.5%,Life Insurance,18057576,NA,1410497,NA,16647079
+gross,01,0100038,"58 CSO, 3.5%, CRVM, 70-90              ",3.5%,Life Insurance,1741681,NA,1741681,NA,NA
+gross,01,0100039,"58 CSO, 3.5%/20/2.75%, 74-86               ",3.5%,Life Insurance,1516227392,NA,1516227392,NA,NA
+gross,01,0100040,"58 CSO, 3.5%/20/2.75%, CRVM/GCV, 74-86                           ",3.5%,Life Insurance,850290862,NA,850290862,NA,NA
+gross,01,0100041,"58 CSO, 3.5%/20/3%, 65-79             ",3.5%,Life Insurance,1904578,NA,1904578,NA,NA
+gross,01,0100042,"58 CSO, 3.5%/20/3%, CRVM, 65-79                   ",3.5%,Life Insurance,2946011,NA,2946011,NA,NA
+gross,01,0100043,"58 CSO, 3.5%-2.5%, 73-83            ",3.5%,Life Insurance,121745079,NA,121745079,NA,NA
+gross,01,0100044,"58 CSO, 4% ",4%,Life Insurance,72112821,NA,65709759,NA,6403062
+gross,01,0100045,"58 CSO, 4%, CRVM, 77 and later                ",4%,Life Insurance,1033501490,NA,1033375681,NA,125809
+gross,01,0100046,"58 CSO, 4%, CRVM/GCV, 79               ",4%,Life Insurance,77548355,NA,77548355,NA,NA
+gross,01,0100047,"58 CSO, 4.5%, 57-92       ",4.5%,Life Insurance,1064871598,NA,1064871598,NA,NA
+gross,01,0100048,"58 CSO, 4.5%, CRVM, 57-92              ",4.5%,Life Insurance,2834781850,NA,2834781850,NA,NA
+gross,01,0100049,"58 CSO, 4.5% CRVM, UL, 82-88                 ",4.5%,Life Insurance,77903333,NA,77903333,NA,NA
+gross,01,0100050,"58 CSO, 5.5%, 83-88       ",5.5%,Life Insurance,598293192,NA,598293192,NA,NA
+gross,01,0100051,"58 CSO, 6%, 84-86      ",6%,Life Insurance,325607331,NA,325607331,NA,NA
+gross,01,0100052,"58 CSO, 6%, CRVM/GCV, 84-86                  ",6%,Life Insurance,509610802,NA,509610802,NA,NA
+gross,01,0100053,"58 CET, 2.5%, 63-92      ",2.5%,Life Insurance,83179,NA,83179,NA,NA
+gross,01,0100054,"58 CET, 3%, 61-79     ",3%,Life Insurance,13042,NA,13042,NA,NA
+gross,01,0100055,"58 CET, 3%/20/2.5%, 65-73            ",3%,Life Insurance,70975500,NA,70975500,NA,NA
+gross,01,0100056,"58 CET, 3.5%/20/2.75%, 74 and later, NB                     ",3.5%,Life Insurance,85302110,NA,85302110,NA,NA
+gross,01,0100057,"58 CET, 4%/20/3.5, 79-86          ",4%,Life Insurance,54093074,NA,54093074,NA,NA
+gross,01,0100058,"58 CET, 4.5%/20/4%, 81-86            ",4.5%,Life Insurance,43243776,NA,43243776,NA,NA
+gross,01,0100059,"60 CSG, 3% ",3%,Life Insurance,2964267,NA,NA,NA,2964267
+gross,01,0100060,"60 CSG, 6%, CRVM, UL           ",6%,Life Insurance,1590892,NA,NA,NA,1590892
+gross,01,0100061,"80 CSO, 2.5%, 87 and later, NB              ",2.5%,Life Insurance,170996,NA,170996,NA,NA
+gross,01,0100062,"80 CSO, 4% ",4%,Life Insurance,1063027802,NA,1047435184,NA,15592618
+gross,01,0100063,"80 CSO, 4%, CRVM, 84 and later                ",4%,Life Insurance,85988845,NA,39922084,NA,46066761
+gross,01,0100064,"80 CSO, 4%, CRVM, UL, 84 and later                   ",4%,Life Insurance,5423469959,NA,3453053837,NA,1970416122
+gross,01,0100065,"80 CSO, 4.5%, 95 & later, NB            ",4.5%,Life Insurance,2292528676,NA,2292514035,NA,14641
+gross,01,0100066,"80 CSO, 4.5%, UL     ",4.5%,Life Insurance,46620904,NA,23398870,NA,23222034
+gross,01,0100067,"80 CSO, 4.5% CRVM - 86 and later                 ",4.5%,Life Insurance,9163141997,NA,9000812105,NA,162329892
+gross,01,0100068,"80 CSO, 4.5% CRVM, UL            ",4.5%,Life Insurance,245813531,NA,54026010,NA,191787521
+gross,01,0100069,"80 CSO, 4.75 %, 99 and later, NB               ",%,Life Insurance,11853,NA,11853,NA,NA
+gross,01,0100070,"80 CSO, 4.75 %, CRVM, 99 and later, NB                      ",%,Life Insurance,410887,NA,410887,NA,NA
+gross,01,0100071,"80 CSO, 5%, 84 and later         ",5%,Life Insurance,1036024215,NA,1036024215,NA,NA
+gross,01,0100072,"80 CSO, 5%, UL    ",5%,Life Insurance,1843711,NA,NA,NA,1843711
+gross,01,0100073,"80 CSO, 5%, CRVM, 89 & later",5%,Life Insurance,3510471365,NA,3488574211,NA,21897154
+gross,01,0100074,"80 CSO, 5%, CRVM, UL, 93 & later",5%,Life Insurance,46832833,NA,40935300,NA,5897533
+gross,01,0100075,"80 CSO, 5.25%, 94 & later, NB",5.25%,Life Insurance,339721,NA,339721,NA,NA
+gross,01,0100076,"80 CSO, 5.25%, CRVM, 94 & later, NB",5.25%,Life Insurance,469146,NA,469146,NA,NA
+gross,01,0100077,"80 CSO, 5.5%",5.5%,Life Insurance,2892662963,NA,2891815538,NA,847425
+gross,01,0100078,"80 CSO, 5.5%, UL",5.5%,Life Insurance,3796090,NA,NA,NA,3796090
+gross,01,0100079,"80 CSO, 5.5%, CRVM, 86 & later, NB",5.5%,Life Insurance,9196763589,NA,9122074083,NA,74689506
+gross,01,0100080,"80 CSO, 5.5%, CRVM, UL, 87-94",5.5%,Life Insurance,621316545,NA,169358177,NA,451958368
+gross,01,0100081,"80 CSO, 5.5%/20/4%, CRVM, 87-92",5.5%,Life Insurance,13170263,NA,13170263,NA,NA
+gross,01,0100082,"80 CSO, 6%",6%,Life Insurance,261236353,NA,260966833,NA,269520
+gross,01,0100083,"80 CSO, 6%, UL, 1995",6%,Life Insurance,82654346,NA,81978147,NA,676199
+gross,01,0100084,"80 CSO, 6%, CRVM, 84 and later, NB",6%,Life Insurance,397069214,NA,397069214,NA,NA
+gross,01,0100085,"80 CET, 4%, 90 and later, NB",4%,Life Insurance,132935138,NA,132935138,NA,NA
+gross,01,0100086,"80 CET, 4.5%, 65-73",4.5%,Life Insurance,70687175,NA,70687175,NA,NA
+gross,01,0100087,"80 CET, 5%, NLP-ALB 93 & later, NB",5%,Life Insurance,225,NA,225,NA,NA
+gross,01,0100088,"80 CET, 5.5%, 87-91, NB",5.5%,Life Insurance,46417845,NA,46417845,NA,NA
+gross,01,0100089,"80 CET, 5.5 %/20/4%, 87 and later, NB",%,Life Insurance,184888751,NA,184888751,NA,NA
+gross,01,0100090,"80 CET, 5.5%/20/4.5%, 84 and later, NB",5.5%,Life Insurance,27057438,NA,27057438,NA,NA
+gross,01,0100091,"INT, 3%, 35-41",3%,Life Insurance,485121,NA,485121,NA,NA
+gross,01,0100092,"INT, 3.5%, 34 and prior",3.5%,Life Insurance,163552,NA,163552,NA,NA
+gross,01,0100093,"41 INT, 2.5%, 48-59",2.5%,Life Insurance,15230550,NA,15230550,NA,NA
+gross,01,0100094,"41 INT, 2.75%, 42-47",2.75%,Life Insurance,3248663,NA,3248663,NA,NA
+gross,01,0100095,"Gross Modal Unearned Premium Reserve, 1997 and later, NB",NA,Life Insurance,8460315,NA,85193,2948,8372174
+gross,01,0100096,Funds for Retiree Life,NA,Life Insurance,759480313,NA,NA,NA,759480313
+gross,01,0100097,"01 CSO, 4.50%, CRVM, UL",4.50%,Life Insurance,294868565,NA,294868565,NA,NA
+gross,01,0100098,"01 CSO, 4.50%, CRVM",4.50%,Life Insurance,2547303,NA,2527462,NA,19841
+gross,01,0100099,"01 CSO, 4.00%, CRVM, UL",4.00%,Life Insurance,2845598150,NA,2845598150,NA,NA
+gross,01,0100100,Reserve Funds Under Universal Life Contracts,NA,Life Insurance,3171283,NA,3171283,NA,NA
+gross,01,0100101,"01 CSO, 4.25%, CRVM",4.25%,Life Insurance,46747,NA,46747,NA,NA
+gross,01,0100102,"58 CSO, 2.25%",2.25%,Life Insurance,172,NA,172,NA,NA
+gross,01,0100103,"80 CSO, 4.5%/20/4%, CRVM",4.5%,Life Insurance,3721049,NA,3721049,NA,NA
+gross,01,0100104,"80 CSO, 5%/20/4%, CRVM",5%,Life Insurance,3270890,NA,3270890,NA,NA
+gross,01,0100105,"80 CSO, 3%, 84 and later (CRVM) UL",3%,Life Insurance,366376354,NA,366240249,NA,136105
+gross,01,0100106,"80 CSO, 3.5%, 84 and later (CRVM) UL",3.5%,Life Insurance,234666,NA,61713,NA,172953
+gross,01,0100107,"01 CSO, 4.00%, CRVM",4.00%,Life Insurance,2004380499,NA,1886759076,NA,117621423
+gross,01,0100108,"01 CSO, 3.50%, CRVM NB",3.50%,Life Insurance,1373210985,NA,1150102458,NA,223108527
+gross,01,0100109,"01 CSO, 3.75%",3.75%,Life Insurance,116835,NA,116835,NA,NA
+gross,01,0100110,"2017 CSO, 3.5%",3.5%,Life Insurance,2970318,NA,41169,NA,2929149
+gross,01,0100111,Reserves based on Separate Account asset values,NA,Life Insurance,756042,NA,NA,NA,756042
+gross,02,0200001,"a-1949 Met*, 2.5%, imm & def, 60-73",2.5%,Annuities,908799,NA,908799,NA,NA
+gross,02,0200002,"a-1949 Met*, 2.75%, imm & def, 60-73",2.75%,Annuities,21639271,NA,21639271,NA,NA
+gross,02,0200003,"a-1949 Met*, 3.5%, imm & def, 66-74",3.5%,Annuities,432862,NA,432862,NA,NA
+gross,02,0200004,"51 GAM, 3.5%, imm & def, 75 and prior",3.5%,Annuities,17091330,NA,NA,NA,17091330
+gross,02,0200005,"51 GAM, 3.5%, imm",3.5%,Annuities,279477,NA,NA,NA,279477
+gross,02,0200006,"51 GAM Proj to 71 Scale C, 2.75%, imm & def",2.75%,Annuities,52435,NA,NA,NA,52435
+gross,02,0200007,"51 GAM Proj to 71 Scale C, 4%, imm & def",4%,Annuities,1356440,NA,NA,NA,1356440
+gross,02,0200008,"71 IAM, 3%, imm & def, 74-81",3%,Annuities,508629,NA,508629,NA,NA
+gross,02,0200009,"71 IAM, 3.25%, imm & def, 74-81",3.25%,Annuities,34573685,NA,34573685,NA,NA
+gross,02,0200010,"71 IAM, 4%, imm & def, 76-80",4%,Annuities,7662629,NA,7662629,NA,NA
+gross,02,0200011,"71 IAM, 4.5%, def, 81-83",4.5%,Annuities,71815752,NA,71815752,NA,NA
+gross,02,0200012,"71 IAM, 5.5%, def, 81-83",5.5%,Annuities,307853144,NA,307853144,NA,NA
+gross,02,0200013,"71 IAM, 6%, imm & def, 75-92",6%,Annuities,1476345,NA,1476345,NA,NA
+gross,02,0200014,"71 IAM, 6.25%, def, 90-92",6.25%,Annuities,9200641,NA,9200641,NA,NA
+gross,02,0200015,"71 IAM, 6.5%, imm & def, 89",6.5%,Annuities,5949248,NA,5949248,NA,NA
+gross,02,0200016,"71 IAM, 6.75%, imm & def, 86-88",6.75%,Annuities,18569492,NA,18569492,NA,NA
+gross,02,0200017,"71 IAM, 7%, imm & def, 82-91",7%,Annuities,972333,NA,972333,NA,NA
+gross,02,0200018,"71 IAM, 7.25%, imm & def, 67-86",7.25%,Annuities,800062,NA,800062,NA,NA
+gross,02,0200019,"71 IAM, 8%, imm & def, 87-94",8%,Annuities,28108911,NA,28108911,NA,NA
+gross,02,0200020,"71 IAM, 8.25%, imm & def, 82-84",8.25%,Annuities,40755,NA,40755,NA,NA
+gross,02,0200021,"71 IAM, 8.5%, def, 84-85",8.5%,Annuities,1230747,NA,1230747,NA,NA
+gross,02,0200022,"71 IAM, 9.25%, imm & def, 82-84",9.25%,Annuities,24290,NA,24290,NA,NA
+gross,02,0200023,"71 GAM, 2.75%, imm & def",2.75%,Annuities,125513,NA,NA,NA,125513
+gross,02,0200024,"71 GAM, 6%, imm & def, 73-83",6%,Annuities,227765474,NA,NA,NA,227765474
+gross,02,0200025,"71 GAM, 6.75%, imm & def",6.75%,Annuities,2717947,NA,NA,NA,2717947
+gross,02,0200026,"71 GAM, 7.5%, imm & def, 77-84",7.5%,Annuities,6070015,NA,NA,NA,6070015
+gross,02,0200027,"71 GAM, 8.25%, imm & def",8.25%,Annuities,363028,NA,NA,NA,363028
+gross,02,0200028,"71 GAM, 9%, imm & def, 84",9%,Annuities,37979,NA,NA,NA,37979
+gross,02,0200029,"71 GAM, 9.5%, imm & def, 84",9.5%,Annuities,441868,NA,NA,NA,441868
+gross,02,0200030,"71 GAM, 9.75%, imm & def, 83-84         ",9.75%,Annuities,621215,NA,NA,NA,621215
+gross,02,0200031,"71 GAM, 10.75%, imm & def, 84        ",10.75%,Annuities,90220,NA,NA,NA,90220
+gross,02,0200032,"71 GAM, 11.25%, imm & def, 83-84          ",11.25%,Annuities,354034,NA,NA,NA,354034
+gross,02,0200033,"83a, 4%, imm & def, 72 and later      ",4%,Annuities,38139207,NA,1036044,NA,37103163
+gross,02,0200034,"83a, 4.5%, imm & def, 99 ",4.5%,Annuities,251237004,NA,8868330,NA,242368674
+gross,02,0200035,"83a, 4.75%, imm & def, 98 and later        ",4.75%,Annuities,698710531,NA,20271192,NA,678439339
+gross,02,0200036,"83a, 5%, imm & def, 96",5%,Annuities,771684775,NA,28693199,NA,742991576
+gross,02,0200037,"83a, 5.25%, def, 94 and later  ",5.25%,Annuities,887886466,NA,28432481,NA,859453985
+gross,02,0200038,"83a, 5.5%, def, 93 and later ",5.5%,Annuities,1722358956,NA,228346461,NA,1494012495
+gross,02,0200039,"83a, 5.75%, imm & def, 92-93     ",5.75%,Annuities,368719125,NA,196376663,NA,172342462
+gross,02,0200040,"83a, 6%, imm & def, 87 and later      ",6%,Annuities,1117262928,NA,96685486,NA,1020577442
+gross,02,0200041,"83a, 6.25%, imm & def, 87-92     ",6.25%,Annuities,508044647,NA,79507930,NA,428536717
+gross,02,0200042,"83a, 6.5%, imm & def, 87 and later       ",6.5%,Annuities,647249613,NA,395435958,NA,251813655
+gross,02,0200043,"83a, 6.75%, imm & def, 87 and later        ",6.75%,Annuities,416035166,NA,128197448,NA,287837718
+gross,02,0200044,"83a, 7%, imm & def, 86 and later      ",7%,Annuities,191993803,NA,79060663,NA,112933140
+gross,02,0200045,"83a, 7.25%, imm & def, 86 and later        ",7.25%,Annuities,65296739,NA,65296739,NA,NA
+gross,02,0200046,"83a, 7.5%, imm & def, 84 and later       ",7.5%,Annuities,23130498,NA,23130498,NA,NA
+gross,02,0200047,"83a, 7.75%, imm & def, 83-92     ",7.75%,Annuities,12734750,NA,12734750,NA,NA
+gross,02,0200048,"83a, 8%, imm & def, 84-91   ",8%,Annuities,28438014,NA,28438014,NA,NA
+gross,02,0200049,"83a, 8.25%, imm & def, 84 and later        ",8.25%,Annuities,61211430,NA,61211430,NA,NA
+gross,02,0200050,"83a, 8.5%, imm & def, 84-91    ",8.5%,Annuities,253768945,NA,253768945,NA,NA
+gross,02,0200051,"83a, 8.75%, imm & def, 84-91     ",8.75%,Annuities,97028103,NA,97028103,NA,NA
+gross,02,0200052,"83a, 9.25%, imm & def, 85-86     ",9.25%,Annuities,8098488,NA,8098488,NA,NA
+gross,02,0200053,"83a, 9.5%, imm & def, 85-90    ",9.5%,Annuities,28401091,NA,28401091,NA,NA
+gross,02,0200054,"83a, 9.75%, imm & def, 83-84     ",9.75%,Annuities,22389504,NA,22389504,NA,NA
+gross,02,0200055,"83 GAM, 5%, imm & def, 94 and later          ",5%,Annuities,282307855,NA,NA,NA,282307855
+gross,02,0200056,"83 GAM, 5.25%, imm & def, 93 and later            ",5.25%,Annuities,79404563,NA,NA,NA,79404563
+gross,02,0200057,"83 GAM, 5.5%, imm & def, 94 and later           ",5.5%,Annuities,61447346,NA,NA,NA,61447346
+gross,02,0200058,"83 GAM, 5.75%, imm and def, 87 and later              ",5.75%,Annuities,88549941,NA,NA,NA,88549941
+gross,02,0200059,"83 GAM, 6%, imm & def, 86 and later          ",6%,Annuities,221764350,NA,NA,NA,221764350
+gross,02,0200060,"83 GAM, 6.25%, imm & def, 88 and later            ",6.25%,Annuities,203455839,NA,NA,NA,203455839
+gross,02,0200061,"83 GAM, 6.5%, immd & def, 85 and later            ",6.5%,Annuities,354536437,NA,NA,NA,354536437
+gross,02,0200062,"83 GAM, 6.75%, imm & def, 90 and later            ",6.75%,Annuities,387324909,NA,NA,NA,387324909
+gross,02,0200063,"83 GAM, 7%, imm & def, 93 and later          ",7%,Annuities,368618415,NA,NA,NA,368618415
+gross,02,0200064,"83 GAM, 7.25%, imm & def, 87 and later            ",7.25%,Annuities,545216336,NA,NA,NA,545216336
+gross,02,0200065,"83 GAM, 7.5%, imm & def, 81 and later           ",7.5%,Annuities,657356436,NA,NA,NA,657356436
+gross,02,0200066,"83 GAM, 7.75%, imm & def, 87 and later            ",7.75%,Annuities,327853307,NA,NA,NA,327853307
+gross,02,0200067,"83 GAM, 8%, imm & def, 86 and later          ",8%,Annuities,228153760,NA,NA,NA,228153760
+gross,02,0200068,"83 GAM, 8.25%, imm & def, 85 and later            ",8.25%,Annuities,206609410,NA,NA,NA,206609410
+gross,02,0200069,"83 GAM, 8.5%, imm & def, 86-92        ",8.5%,Annuities,62041566,NA,NA,NA,62041566
+gross,02,0200070,"83 GAM, 8.75%, imm & def, 86-92         ",8.75%,Annuities,113381895,NA,NA,NA,113381895
+gross,02,0200071,"83 GAM, 9.25%, imm & def, 86-90         ",9.25%,Annuities,148450500,NA,NA,NA,148450500
+gross,02,0200072,"83 GAM, 9.5%, imm & def, 85-91        ",9.5%,Annuities,256610497,NA,NA,NA,256610497
+gross,02,0200073,"83 GAM, 9.75%, imm & def, 85-92         ",9.75%,Annuities,57874,NA,NA,NA,57874
+gross,02,0200074,"83 GAM, 10.5%, imm & def, 85       ",10.5%,Annuities,1322166,NA,NA,NA,1322166
+gross,02,0200075,"83 GAM, 11%, imm & def, 85      ",11%,Annuities,746231,NA,NA,NA,746231
+gross,02,0200076,"1994 GAR, 4.75%, imm & def, 98 and later              ",4.75%,Annuities,202709495,NA,NA,NA,202709495
+gross,02,0200077,"1994 GAR, 5%, imm & def, 98 and later            ",5%,Annuities,957306071,NA,NA,NA,957306071
+gross,02,0200078,"1994 GAR, 5.25%, imm & def, 00        ",5.25%,Annuities,595357806,NA,NA,NA,595357806
+gross,02,0200079,"1994 GAR, 5.5%, imm & def, 99       ",5.5%,Annuities,1186557685,NA,NA,NA,1186557685
+gross,02,0200080,"1994 GAR, 5.75%, imm & def, 98 and later              ",5.75%,Annuities,42358115,NA,NA,NA,42358115
+gross,02,0200081,"1994 GAR, 6%, imm & def, 98 and later            ",6%,Annuities,674447609,NA,NA,NA,674447609
+gross,02,0200082,"1994 GAR, 6.25%, imm & def, 98 and later              ",6.25%,Annuities,313617981,NA,NA,NA,313617981
+gross,02,0200083,"1994 GAR, 6.5%, imm & def, 01       ",6.5%,Annuities,613107237,NA,NA,NA,613107237
+gross,02,0200084,"1994 GAR, 6.75%, imm & def, 00        ",6.75%,Annuities,80090390,NA,NA,NA,80090390
+gross,02,0200085,"1994 GAR, 7%, imm & def, 00      ",7%,Annuities,59318924,NA,NA,NA,59318924
+gross,02,0200086,"a-2000, 5.25%, imm & def, 1999 and later            ",5.25%,Annuities,48875225,NA,48875225,NA,NA
+gross,02,0200087,"a-2000, 5.50%, imm & def, 2001 and later            ",5.50%,Annuities,136501444,NA,136501444,NA,NA
+gross,02,0200088,"a-2000, 5.75%, imm & def, 98 and later           ",5.75%,Annuities,3851639,NA,3851639,NA,NA
+gross,02,0200089,"a-2000, 6%, imm & def, 98 and later        ",6%,Annuities,2108085,NA,2108085,NA,NA
+gross,02,0200090,"a-2000, 6.25%, imm & def, 98     ",6.25%,Annuities,4417871,NA,4417871,NA,NA
+gross,02,0200091,"a-2000, 6.5%, imm & def, 01    ",6.5%,Annuities,2360935,NA,2360935,NA,NA
+gross,02,0200092,"a-2000, 6.75%, imm & def, 01     ",6.75%,Annuities,2061754,NA,2061754,NA,NA
+gross,02,0200093,"a-2000, 7%, imm & def, 00   ",7%,Annuities,1579965,NA,1579965,NA,NA
+gross,02,0200094,"Int Only, 3.5%, imm, NB ",3.5%,Annuities,628418588,NA,NA,NA,628418588
+gross,02,0200095,"Int Only, 4.5%, imm & def, 99, NB       ",4.5%,Annuities,473824040,NA,2327209,NA,471496831
+gross,02,0200096,"Int Only, 4.75%, imm, 85 and later     ",4.75%,Annuities,638834517,NA,2068227,NA,636766290
+gross,02,0200097,"Int Only, 5%, imm & def, 86 & later     ",5%,Annuities,235349347,NA,603558,NA,234745789
+gross,02,0200098,"Int Only, 5.25%, imm & def, 93 and later         ",5.25%,Annuities,68572669,NA,4487,NA,68568182
+gross,02,0200099,"Int Only, 5.5%, imm & def, 94 and later        ",5.5%,Annuities,200479482,NA,952291,NA,199527191
+gross,02,0200100,"Int Only, 5.75%, imm & def, 92 and later         ",5.75%,Annuities,33997959,NA,NA,NA,33997959
+gross,02,0200101,"Int Only, 6%, imm & def, 75 and later       ",6%,Annuities,119347943,NA,618845,NA,118729098
+gross,02,0200102,"Int Only, 6.25%, imm & def, 88 and later         ",6.25%,Annuities,18615074,NA,NA,NA,18615074
+gross,02,0200103,"Int Only, 6.5%, imm & def, 86 and later",6.5%,Annuities,39539406,NA,67763,NA,39471643
+gross,02,0200104,"Int Only, 6.75%, imm & def, 92 and later",6.75%,Annuities,52136956,NA,124699,NA,52012257
+gross,02,0200105,"Int Only, 7%, imm & def, 77 and later",7%,Annuities,76143817,NA,NA,NA,76143817
+gross,02,0200106,"Int Only, 7.25%, imm & def, 87 and later",7.25%,Annuities,17003470,NA,NA,NA,17003470
+gross,02,0200107,"Int Only, 7.5%, imm & def, 77-94",7.5%,Annuities,356133,NA,NA,NA,356133
+gross,02,0200108,"Int Only, 7.75%, imm & def, 77-95",7.75%,Annuities,62015461,NA,NA,NA,62015461
+gross,02,0200109,"Int Only, 8%, imm & def, 86 and later",8%,Annuities,879628,NA,NA,NA,879628
+gross,02,0200110,"Int Only, 8.25%, imm & def, 86-95",8.25%,Annuities,12038639,NA,830726,NA,11207913
+gross,02,0200111,"Int Only, 8.5%, imm & def, 86-88",8.5%,Annuities,463549,NA,NA,NA,463549
+gross,02,0200112,"Int Only, 8.75%, imm & def, 86-89",8.75%,Annuities,2845721,NA,NA,NA,2845721
+gross,02,0200113,"Int Only, 9.25%, imm & def, 83-92",9.25%,Annuities,715618,NA,NA,NA,715618
+gross,02,0200114,"Int Only, 9.5%, imm & def, 84 and later",9.5%,Annuities,4430255,NA,4430255,NA,NA
+gross,02,0200115,"Int Only, 9.75%, imm & def, 83-92",9.75%,Annuities,790,NA,NA,NA,790
+gross,02,0200116,CARVM 5.25% def,5.25%,Annuities,108280,NA,108280,NA,NA
+gross,02,0200117,CARVM 5.5% def,5.5%,Annuities,1107952,NA,1107952,NA,NA
+gross,02,0200118,CARVM 5.75% def,5.75%,Annuities,497185,NA,497185,NA,NA
+gross,02,0200119,CARVM 6% def,6%,Annuities,1441870,NA,1441870,NA,NA
+gross,02,0200120,CARVM 6.25% def,6.25%,Annuities,7364703,NA,7364703,NA,NA
+gross,02,0200121,CARVM 6.50% def,6.50%,Annuities,8878619,NA,8878619,NA,NA
+gross,02,0200122,CARVM 6.75% def,6.75%,Annuities,5950573,NA,5950573,NA,NA
+gross,02,0200123,CARVM 7% def,7%,Annuities,1348964,NA,1348964,NA,NA
+gross,02,0200124,CARVM 7.25% def,7.25%,Annuities,700910,NA,700910,NA,NA
+gross,02,0200125,CARVM 8% def,8%,Annuities,468689,NA,468689,NA,NA
+gross,02,0200126,RETIREMENT : 2.5% def,2.5%,Annuities,188749,NA,188749,NA,NA
+gross,02,0200127,RETIREMENT : 3.5% def,3.5%,Annuities,333354,NA,333354,NA,NA
+gross,02,0200128,RETIREMENT : 4% def,4%,Annuities,4352347,NA,4352347,NA,NA
+gross,02,0200129,Guaranteed Interest Contracts held at account balance,NA,Annuities,3152208542,NA,NA,NA,3152208542
+gross,02,0200130,Group Annuities with Purchase Provisions,NA,Annuities,208065867,NA,NA,NA,208065867
+gross,02,0200131,"a-2000, 5%, imm & def, 2003 and later",5%,Annuities,427254303,NA,427254303,NA,NA
+gross,02,0200132,"a-2000, 4.75%, imm & def, 2003 and later",4.75%,Annuities,389741445,NA,389741445,NA,NA
+gross,02,0200133,"Int Only, 4.25%, Imm & def, NB",4.25%,Annuities,486966417,NA,45546,NA,486920871
+gross,02,0200134,"1994 GAR, 4.5%, imm & def, 98 and later, NB",4.5%,Annuities,453312119,NA,1170107,NA,452142012
+gross,02,0200135,"a-2000, 4.5%, imm & def, 2004 and later",4.5%,Annuities,526132677,NA,526132677,NA,NA
+gross,02,0200136,"71 IAM, 3.5%, imm & def, 72 and later",3.5%,Annuities,48865,NA,48865,NA,NA
+gross,02,0200137,"71 IAM, 5.0%, imm & def",5.0%,Annuities,25456814,NA,25456814,NA,NA
+gross,02,0200138,"71 IAM, Proj., B, 5.5%, imm & def",5.5%,Annuities,38998,NA,38998,NA,NA
+gross,02,0200139,"71 IAM, Proj., B, 5.0%, imm & def",5.0%,Annuities,605,NA,605,NA,NA
+gross,02,0200140,"71 GAM, 5.5%, imm & def",5.5%,Annuities,204090433,NA,NA,NA,204090433
+gross,02,0200141,"71 GAM, 4.5%, imm & def",4.5%,Annuities,91699472,NA,NA,NA,91699472
+gross,02,0200142,"71 GAM, Proj. D, 5.5%, imm & def",5.5%,Annuities,8105379,NA,NA,NA,8105379
+gross,02,0200143,"71 GAM, Proj. D, 4.5%, imm & def",4.5%,Annuities,27478882,NA,NA,NA,27478882
+gross,02,0200144,"83 GAM, 4.5%, imm & def",4.5%,Annuities,132331320,NA,NA,NA,132331320
+gross,02,0200145,"71 GAM, Proj. D, 5.0%, imm & def",5.0%,Annuities,12002341,NA,NA,NA,12002341
+gross,02,0200146,"Int Only, 4%, Immed & Defd, NB",4%,Annuities,539828137,NA,NA,NA,539828137
+gross,02,0200147,"1994 GAR, 4.25%, imm & def, NB",4.25%,Annuities,295669382,NA,2255241,NA,293414141
+gross,02,0200148,"a-2000, 4.25%, imm & def, NB",4.25%,Annuities,98321111,NA,98321111,NA,NA
+gross,02,0200149,"a-2000, 4.00%, imm & def",4.00%,Annuities,2523603,NA,2523603,NA,NA
+gross,02,0200150,"83 GAM, Proj H, 6%",6%,Annuities,16372887,NA,NA,NA,16372887
+gross,02,0200151,"83 GAM, Proj H, 7.5%",7.5%,Annuities,1922888297,NA,NA,NA,1922888297
+gross,02,0200152,"83 GAM, Proj H, 9.5%",9.5%,Annuities,341431899,NA,NA,NA,341431899
+gross,02,0200153,"83 GAM, Proj H, 9.75%",9.75%,Annuities,275680743,NA,NA,NA,275680743
+gross,02,0200154,Annuity Reserves Not Included Elsewhere,NA,Annuities,951622286,NA,127663,NA,951494623
+gross,02,0200155,"1994 GAR, 4%, imm & def",4%,Annuities,1672042617,NA,NA,NA,1672042617
+gross,02,0200156,"1994 GAR, 3%, imm & def",3%,Annuities,49853439,NA,NA,NA,49853439
+gross,02,0200157,"1994 GAR, 3.5%, imm & def",3.5%,Annuities,427019416,NA,NA,NA,427019416
+gross,02,0200158,"1994 GAR, 3.75%, imm & def, NB",3.75%,Annuities,737685387,NA,908708,NA,736776679
+gross,02,0200159,"Int Only, 2.75%, imm & def",2.75%,Annuities,8065188,NA,NA,NA,8065188
+gross,02,0200160,"Int Only, 3.75%, imm & def, NB",3.75%,Annuities,730574140,NA,NA,NA,730574140
+gross,02,0200161,"a-2000, Proj AA 4.25%, imm & def, NB",4.25%,Annuities,394583773,NA,47939962,NA,346643811
+gross,02,0200162,"a-2000, Proj AA 4.75%, imm & def",4.75%,Annuities,3511319,NA,2103504,NA,1407815
+gross,02,0200163,"a-2000, Proj AA 5.50%, imm & def",5.50%,Annuities,62677254,NA,62677254,NA,NA
+gross,02,0200164,"a-2000, Proj AA 4.00%, imm & def, NB",4.00%,Annuities,417515826,NA,1158677,NA,416357149
+gross,02,0200165,"a-2000, Proj AA 4.50%, imm & def, NB",4.50%,Annuities,32367106,NA,32367106,NA,NA
+gross,02,0200166,"1994 GAR, 5%, imm & def",5%,Annuities,402498,NA,NA,NA,402498
+gross,02,0200167,"b-2000, Proj AA 4.25%, imm & def",4.25%,Annuities,31676903,NA,NA,NA,31676903
+gross,02,0200168,Variable Annuity Base Reserve,NA,Annuities,9806911635,NA,6201170158,NA,3605741477
+gross,02,0200169,"83a, Proj D, 4%, imm & def",4%,Annuities,110533268,NA,NA,NA,110533268
+gross,02,0200170,"83a, Proj D, 4.25%, imm & def",4.25%,Annuities,120601408,NA,NA,NA,120601408
+gross,02,0200171,"83a, Proj D, 4.5%, imm & def",4.5%,Annuities,383848096,NA,NA,NA,383848096
+gross,02,0200172,"83a, Proj D, 4.75%, imm & def",4.75%,Annuities,345377851,NA,NA,NA,345377851
+gross,02,0200173,"83a, Proj D, 3.5%, imm & def, NB",3.5%,Annuities,152313719,NA,NA,NA,152313719
+gross,02,0200174,"83a, Proj D, 3.75%, imm & def, NB",3.75%,Annuities,548593641,NA,NA,NA,548593641
+gross,02,0200175,"b-2000, Proj AA 3.5%, imm & def",3.5%,Annuities,2275305,NA,NA,NA,2275305
+gross,02,0200176,"b-2000, Proj AA 4%, imm & def",4%,Annuities,13200548,NA,NA,NA,13200548
+gross,02,0200177,"b-2000, Proj AA 4.5%, imm & def",4.5%,Annuities,206463388,NA,NA,NA,206463388
+gross,02,0200178,"a-2000, Proj AA 3%, imm & def",3%,Annuities,464218869,NA,11916373,NA,452302496
+gross,02,0200179,"a-2000, Proj AA 3.5%, imm & def, NB",3.5%,Annuities,447438119,NA,15222347,NA,432215772
+gross,02,0200180,"a-2000, Proj AA 3.75%, imm & def, NB",3.75%,Annuities,1126332958,NA,68965525,NA,1057367433
+gross,02,0200181,"1994 GAR, 7.25%, imm & def",7.25%,Annuities,215080913,NA,NA,NA,215080913
+gross,02,0200182,"1994 GAR, 7.5%, imm & def",7.5%,Annuities,8287552,NA,NA,NA,8287552
+gross,02,0200183,"1994 GAR, 7.75%, imm & def",7.75%,Annuities,72457510,NA,NA,NA,72457510
+gross,02,0200184,"1994 GAR, 8%, imm & def",8%,Annuities,248557901,NA,NA,NA,248557901
+gross,02,0200185,"1994 GAR, 8.5%, imm & def",8.5%,Annuities,8561106,NA,NA,NA,8561106
+gross,02,0200186,"1994 GAR, 8.75%, imm & def",8.75%,Annuities,62792333,NA,NA,NA,62792333
+gross,02,0200187,"1994 GAR, 9.25%, imm & def",9.25%,Annuities,51373036,NA,NA,NA,51373036
+gross,02,0200188,"1994 GAR, 9.5%, imm & def",9.5%,Annuities,4213,NA,NA,NA,4213
+gross,02,0200189,"83a, 4.25%, imm & def",4.25%,Annuities,281738739,NA,4952284,NA,276786455
+gross,02,0200190,"a-2000, Proj AA 5%, imm & def",5%,Annuities,8716491,NA,NA,NA,8716491
+gross,02,0200191,"Int Only, 3.25%, imm & def, NB",3.25%,Annuities,119662866,NA,NA,NA,119662866
+gross,02,0200192,"a-2000, Proj AA 3.25%, imm & def",3.25%,Annuities,343883328,NA,62954541,NA,280928787
+gross,02,0200193,"1994 GAR, 2.75%, imm & def",2.75%,Annuities,25972111,NA,NA,NA,25972111
+gross,02,0200194,"1994 GAR, 3.25%, imm & def",3.25%,Annuities,81585538,NA,NA,NA,81585538
+gross,02,0200195,"a-2000, 3.75%, imm & def",3.75%,Annuities,15184451,NA,15184451,NA,NA
+gross,02,0200196,"Int Only, 3.00%, imm & def, NB",3.00%,Annuities,23884317,NA,NA,NA,23884317
+gross,02,0200197,"a-2000, Proj AA 2.75%, imm & def",2.75%,Annuities,39492580,NA,9590384,NA,29902196
+gross,02,0200198,"a-2000, Proj AA 2.50%, imm & def",2.50%,Annuities,35966852,NA,983175,NA,34983677
+gross,02,0200199,"83a, Proj D, 3.25%, imm & def, NB",3.25%,Annuities,26781089,NA,NA,NA,26781089
+gross,02,0200200,"Int Only, 2.5%, imm & def",2.5%,Annuities,1196249,NA,NA,NA,1196249
+gross,02,0200201,"83a, Proj D, 3%, imm & def",3%,Annuities,6930002,NA,NA,NA,6930002
+gross,02,0200202,"1994 GAR, .75%, imm & def",.75%,Annuities,626155,NA,NA,NA,626155
+gross,02,0200203,"71 GAM, 5%, imm & def",5%,Annuities,54159638,NA,NA,NA,54159638
+gross,02,0200204,"1994 GAR, 4.00%, imm & def",4.00%,Annuities,2630785,NA,8,NA,2630777
+gross,02,0200205,"83a, Proj MT12UD, 3.5%, imm & def, NB",3.5%,Annuities,52743827,NA,NA,NA,52743827
+gross,02,0200206,"83a, Proj MT12UD, 3.75%, imm & def, NB",3.75%,Annuities,489059957,NA,NA,NA,489059957
+gross,02,0200207,"83a, Proj MT12UD, 4%, imm & def, NB",4%,Annuities,447023199,NA,NA,NA,447023199
+gross,02,0200208,"83a, Proj MT12UD, 4.25%, imm & def, NB",4.25%,Annuities,30325116,NA,NA,NA,30325116
+gross,02,0200209,"83a, Proj MT12UD, 4.5%, imm & def, NB",4.5%,Annuities,282874835,NA,NA,NA,282874835
+gross,02,0200210,"1994 GAR, 8.25%, imm & def",8.25%,Annuities,25044200,NA,NA,NA,25044200
+gross,02,0200211,"a-2012, Proj G2 4%, imm & def",4%,Annuities,23954395,NA,23954395,NA,NA
+gross,02,0200212,"a-2000, Proj AA 2.25%, imm & def",2.25%,Annuities,7290746,NA,2513296,NA,4777450
+gross,02,0200213,"1994 GAR, 2%, imm & def",2%,Annuities,6689600,NA,NA,NA,6689600
+gross,02,0200214,"a-2012, Proj G2 3.5%, imm & def",3.5%,Annuities,58402574,NA,58402574,NA,NA
+gross,02,0200215,2012 IAR 3.75% def NB,3.75%,Annuities,31986117,NA,25448919,NA,6537198
+gross,02,0200216,"83a, Proj MT12UD, 3.25%, imm & def, NB",3.25%,Annuities,16212932,NA,NA,NA,16212932
+gross,02,0200217,"Int Only, 2%, imm & def",2%,Annuities,10319332,NA,NA,NA,10319332
+gross,02,0200218,"71 GAM, Proj. D, 6.0%, imm & def",6.0%,Annuities,37979645,NA,NA,NA,37979645
+gross,02,0200219,"51 GAM, 2.75%, imm & def",2.75%,Annuities,54571,NA,NA,NA,54571
+gross,02,0200220,"71 GAM, 7.75%, imm & def",7.75%,Annuities,63482,NA,NA,NA,63482
+gross,02,0200221,"71 GAM, 8.75%, imm & def",8.75%,Annuities,85362,NA,NA,NA,85362
+gross,02,0200222,"71 GAM, 13.25%, imm & def",13.25%,Annuities,580534,NA,NA,NA,580534
+gross,02,0200223,"a-2012, Proj G2 3.75%, imm & def",3.75%,Annuities,151752,NA,151752,NA,NA
+gross,02,0200224,"37 SA*, 3.5%, imm & def",3.5%,Annuities,13851,NA,7740,NA,6111
+gross,02,0200225,"1994 GAR, Proj AA, 1.5%",1.5%,Annuities,553365,NA,NA,NA,553365
+gross,02,0200226,"1994 GAR, Proj AA, 2.5%",2.5%,Annuities,1097294,NA,NA,NA,1097294
+gross,02,0200227,"1994 GAR, Proj AA, 4.75%",4.75%,Annuities,66429580,NA,NA,NA,66429580
+gross,02,0200228,"1994 GAR, Proj AA, 5%",5%,Annuities,8257,NA,NA,NA,8257
+gross,02,0200229,"51 GAM, Proj C, 5.5%",5.5%,Annuities,54424,NA,NA,NA,54424
+gross,02,0200230,"a-2000, Proj AA, 4%",4%,Annuities,593027,NA,NA,NA,593027
+gross,02,0200231,2012 IAR 3.25% def NB,3.25%,Annuities,293693,NA,NA,NA,293693
+gross,02,0200232,2012 IAR 3.50% def NB,3.50%,Annuities,3525220,NA,NA,NA,3525220
+gross,02,0200233,"1994 GAR, 2.5%, imm & def",2.5%,Annuities,100944,NA,NA,NA,100944
+gross,02,0200234,"1994 GAR, Proj AA, 2.25%",2.25%,Annuities,55069,NA,NA,NA,55069
+gross,02,0200235,"83a, Proj MT12UD, 2.5%, imm & def, NB",2.5%,Annuities,144168,NA,NA,NA,144168
+gross,02,0200236,"83a, Proj MT12UD, 3%, imm & def, NB",3%,Annuities,137692,NA,NA,NA,137692
+gross,02,0200237,"1994 GAR, Proj AA, 1%",1%,Annuities,1313506,NA,NA,NA,1313506
+gross,02,0200238,"a-2000, Proj AA 1.25%, imm & def",1.25%,Annuities,337828,NA,NA,NA,337828
+gross,02,0200239,"a-2000, Proj AA 1.5%, imm & def",1.5%,Annuities,8134081,NA,NA,NA,8134081
+gross,02,0200240,"a-2000, Proj AA 1.75%, imm & def",1.75%,Annuities,329800,NA,NA,NA,329800
+gross,02,0200241,"a-2000, Proj AA 2%, imm & def",2%,Annuities,26765436,NA,NA,NA,26765436
+gross,02,0200242,"Int Only, .075%, imm & def",.075%,Annuities,760887,NA,NA,NA,760887
+gross,02,0200243,"Int Only, 1.25%, imm & def",1.25%,Annuities,403472,NA,NA,NA,403472
+gross,02,0200244,"Int Only, 1.5%, imm & def",1.5%,Annuities,5072260,NA,NA,NA,5072260
+gross,02,0200245,"Int Only, 1.75%, imm & def",1.75%,Annuities,447246,NA,NA,NA,447246
+gross,02,0200246,"1994 GAR, Proj AA, 1.25%",1.25%,Annuities,494834,NA,NA,NA,494834
+gross,03,0300001,"37 SA*, 3.5%, 94 & prior         ",3.5%,Supp Conts with Life Conts,390022,NA,1574,NA,388448
+gross,03,0300002,"37 SA*, 4%, 57-88      ",4%,Supp Conts with Life Conts,77601,NA,NA,NA,77601
+gross,03,0300003,"a-1949, 3.5%, 69-74       ",3.5%,Supp Conts with Life Conts,72250,166,8261,NA,63823
+gross,03,0300004,"a-1949, Modification D, 4%, 94 & prior                 ",4%,Supp Conts with Life Conts,6180768,NA,NA,NA,6180768
+gross,03,0300005,"51 GAM, 3.5%, 63-74         ",3.5%,Supp Conts with Life Conts,500675,NA,NA,NA,500675
+gross,03,0300006,Modified '55 AMER ANN 3.5%                 ,3.5%,Supp Conts with Life Conts,206283,NA,206283,NA,NA
+gross,03,0300007,"71 IAM, Projection B, 4.5%/10/4%, 48-68                     ",4.5%,Supp Conts with Life Conts,58,NA,58,NA,NA
+gross,03,0300008,"71 IAM, 6%, 75-79      ",6%,Supp Conts with Life Conts,984862,NA,685979,NA,298883
+gross,03,0300009,"71 IAM, Projection B, 7.5%, 80-84               ",7.5%,Supp Conts with Life Conts,229117,NA,NA,NA,229117
+gross,03,0300010,"71 GAM, 6%, 75-79        ",6%,Supp Conts with Life Conts,2108677,NA,NA,NA,2108677
+gross,03,0300011,"71 GAM, 7.5%, 80-82         ",7.5%,Supp Conts with Life Conts,2405426,NA,NA,NA,2405426
+gross,03,0300012,"71 GAM, 9.5%, 83-84         ",9.5%,Supp Conts with Life Conts,1784825,NA,NA,NA,1784825
+gross,03,0300013,"83a, 5.5%, 96 and later        ",5.5%,Supp Conts with Life Conts,18289070,NA,18289070,NA,NA
+gross,03,0300014,"83a, 5.75%, 93 and later         ",5.75%,Supp Conts with Life Conts,63241,NA,63241,NA,NA
+gross,03,0300015,"83a, 6%, 76-79, 94-97        ",6%,Supp Conts with Life Conts,17879859,NA,17867345,NA,12514
+gross,03,0300016,"83a, 6.25%, 92 and later         ",6.25%,Supp Conts with Life Conts,846359,NA,846359,NA,NA
+gross,03,0300017,"83a, 6.5%, 79-84     ",6.5%,Supp Conts with Life Conts,4017016,NA,4017016,NA,NA
+gross,03,0300018,"83a, 6.75%, 96 and later         ",6.75%,Supp Conts with Life Conts,8962643,NA,8941270,NA,21373
+gross,03,0300019,"83a, 7%, 79-94    ",7%,Supp Conts with Life Conts,5730494,NA,5681979,NA,48515
+gross,03,0300020,"83a, 7.25%, 87 and later         ",7.25%,Supp Conts with Life Conts,4975655,NA,4975655,NA,NA
+gross,03,0300021,"83a, 7.5%, 79 and later, NB            ",7.5%,Supp Conts with Life Conts,94548,NA,NA,NA,94548
+gross,03,0300022,"83a, 7.75%, 79-92      ",7.75%,Supp Conts with Life Conts,136961,NA,NA,NA,136961
+gross,03,0300023,"83a, 8%, 79-91    ",8%,Supp Conts with Life Conts,172965,NA,NA,NA,172965
+gross,03,0300024,"83a, 8.25%, 79-91      ",8.25%,Supp Conts with Life Conts,120468,NA,3806,NA,116662
+gross,03,0300025,"83a, 8.5%, 85 and later        ",8.5%,Supp Conts with Life Conts,413655,NA,413655,NA,NA
+gross,03,0300026,"83a, 8.75%, 79-92      ",8.75%,Supp Conts with Life Conts,138254,NA,NA,NA,138254
+gross,03,0300027,"83a, 9.5%, 85   ",9.5%,Supp Conts with Life Conts,171592,NA,NA,NA,171592
+gross,03,0300028,"83 GAM, 6%, 91 and later, NB               ",6%,Supp Conts with Life Conts,5012082,NA,NA,NA,5012082
+gross,03,0300029,"83 GAM, 6.25%, 88-92, 2000 and later, NB                        ",6.25%,Supp Conts with Life Conts,1042717,NA,NA,NA,1042717
+gross,03,0300030,"83 GAM, Projection H, 6.25%, 95 & 98                    ",6.25%,Supp Conts with Life Conts,11424794,NA,NA,NA,11424794
+gross,03,0300031,"83 GAM, Projection H, 6.5%, 94               ",6.5%,Supp Conts with Life Conts,3219862,NA,NA,NA,3219862
+gross,03,0300032,"83 GAM, Projection H, 6.75%,96 - 97                  ",6.75%,Supp Conts with Life Conts,7749831,NA,NA,NA,7749831
+gross,03,0300033,"83 GAM, Projection H, 7%, 93              ",7%,Supp Conts with Life Conts,1983584,NA,NA,NA,1983584
+gross,03,0300034,"83 GAM, Projection H, 7.5%, 86-88                 ",7.5%,Supp Conts with Life Conts,5595845,NA,NA,NA,5595845
+gross,03,0300035,"83 GAM, Projection H, 7.75%, 92                ",7.75%,Supp Conts with Life Conts,2512947,NA,NA,NA,2512947
+gross,03,0300036,"83 GAM, Projection H, 8.25%, 90-91                  ",8.25%,Supp Conts with Life Conts,4729321,NA,NA,NA,4729321
+gross,03,0300037,"83 GAM, Projection H, 8.75%, 89                ",8.75%,Supp Conts with Life Conts,2211816,NA,NA,NA,2211816
+gross,03,0300038,"83 GAM, Projection H, 9.5%, 85               ",9.5%,Supp Conts with Life Conts,1031564,NA,NA,NA,1031564
+gross,03,0300039,"1994 GAR, 6.5%, 2002           ",6.5%,Supp Conts with Life Conts,4133290,NA,NA,NA,4133290
+gross,03,0300040,"1994 GAR, 6.75 %, 2001            ",%,Supp Conts with Life Conts,2916641,NA,NA,NA,2916641
+gross,03,0300041,"1994 GAR, 7%, 2000          ",7%,Supp Conts with Life Conts,3487832,NA,NA,NA,3487832
+gross,03,0300042,"a-2000, 5.5%, imm & def          ",5.5%,Supp Conts with Life Conts,94407057,NA,94407057,NA,NA
+gross,03,0300043,"a-2000, 6%, 98-99      ",6%,Supp Conts with Life Conts,12559074,NA,12559074,NA,NA
+gross,03,0300044,"a-2000, 6.25%, 98      ",6.25%,Supp Conts with Life Conts,12940881,NA,12940881,NA,NA
+gross,03,0300045,"a-2000, 6.5%, imm & def, 01             ",6.5%,Supp Conts with Life Conts,11516976,NA,11516976,NA,NA
+gross,03,0300046,"a-2000, 6.75%, imm & def, 01              ",6.75%,Supp Conts with Life Conts,10435800,NA,10435800,NA,NA
+gross,03,0300047,"a-2000, 7%, 00    ",7%,Supp Conts with Life Conts,12052671,NA,12052671,NA,NA
+gross,03,0300048,"1960 CSG, 3.5%, 72 and prior              ",3.5%,Supp Conts with Life Conts,15011,NA,NA,NA,15011
+gross,03,0300049,"1994 GAR, 6%, 2003          ",6%,Supp Conts with Life Conts,14116352,NA,NA,NA,14116352
+gross,03,0300050,"71 IAM, 3.5%, 71 and prior           ",3.5%,Supp Conts with Life Conts,8813,NA,NA,NA,8813
+gross,03,0300051,"83 GAM, 5%, 93-94, 2007             ",5%,Supp Conts with Life Conts,701637,NA,NA,NA,701637
+gross,03,0300052,"37 SA, 4.5%, 80-87       ",4.5%,Supp Conts with Life Conts,801778,NA,NA,NA,801778
+gross,03,0300053,"83a, 5.0% ",5.0%,Supp Conts with Life Conts,18914,NA,18914,NA,NA
+gross,03,0300054,"71 IAM, Projection B, 5.5%           ",5.5%,Supp Conts with Life Conts,907914,NA,907914,NA,NA
+gross,03,0300055,"71 IAM, 5.5%   ",5.5%,Supp Conts with Life Conts,170767,NA,170767,NA,NA
+gross,03,0300056,"71 IAM, 4.5%   ",4.5%,Supp Conts with Life Conts,5751,NA,5751,NA,NA
+gross,03,0300057,"71 IAM, Projection B, 5.0%           ",5.0%,Supp Conts with Life Conts,2961,NA,2961,NA,NA
+gross,03,0300058,"1994 GAR, 5.5%, imm & def, 99                ",5.5%,Supp Conts with Life Conts,23219105,NA,NA,NA,23219105
+gross,03,0300059,"a-2000 5.25%, 05      ",5.25%,Supp Conts with Life Conts,66126201,NA,66126201,NA,NA
+gross,03,0300060,"1994 GAR, 5.25%, imm & def               ",5.25%,Supp Conts with Life Conts,9848223,NA,NA,NA,9848223
+gross,03,0300061,"71 IAM, Projection B, 4%          ",4%,Supp Conts with Life Conts,181072,NA,177948,NA,3124
+gross,03,0300062,"a-2000, Proj AA 4.25%, immed & def                   ",4.25%,Supp Conts with Life Conts,48721955,NA,48721955,NA,NA
+gross,03,0300063,"a-2000, Proj AA 5.50%, immed & def                   ",5.50%,Supp Conts with Life Conts,42638330,NA,42638330,NA,NA
+gross,03,0300064,Variable Annuity Base Reserve               ,NA,Supp Conts with Life Conts,9501183,NA,9501183,NA,NA
+gross,03,0300065,"a-2000, Proj AA 3.75%, immed & def                   ",3.75%,Supp Conts with Life Conts,54263492,NA,54263492,NA,NA
+gross,03,0300066,"1994 GAR, 4%      ",4%,Supp Conts with Life Conts,10509298,NA,NA,NA,10509298
+gross,03,0300067,"a-2000, Proj AA 5%, immed & def                 ",5%,Supp Conts with Life Conts,1006393,NA,1006393,NA,NA
+gross,03,0300068,"1994 GAR, 3.5%       ",3.5%,Supp Conts with Life Conts,36905507,NA,NA,NA,36905507
+gross,03,0300069,"a-2000, Proj AA 4.5%, immed & def, NB                      ",4.5%,Supp Conts with Life Conts,36039373,NA,36039373,NA,NA
+gross,03,0300070,"1994 GAR, 3%, 2012",3%,Supp Conts with Life Conts,149589668,NA,NA,NA,149589668
+gross,03,0300071,"a-2000, Proj AA 4%, immed & def, NB",4%,Supp Conts with Life Conts,4780122,NA,4780122,NA,NA
+gross,03,0300072,"a-2000, Proj AA 3.5%, immed & def",3.5%,Supp Conts with Life Conts,35549609,NA,35549609,NA,NA
+gross,03,0300073,"a-2012, Proj G2 4%, imm & def",4%,Supp Conts with Life Conts,84729869,NA,84729869,NA,NA
+gross,03,0300074,"a-2000, Proj AA 3.25%, immed & def",3.25%,Supp Conts with Life Conts,28539401,NA,28539401,NA,NA
+gross,03,0300075,"a-2000, Proj AA 2.5%, immed & def",2.5%,Supp Conts with Life Conts,6068,NA,6068,NA,NA
+gross,03,0300076,"a-2000, Proj AA 2.75%, immed & def",2.75%,Supp Conts with Life Conts,39058680,NA,39058680,NA,NA
+gross,03,0300077,"a-2000, Proj AA 3%, immed & def",3%,Supp Conts with Life Conts,196778,NA,196778,NA,NA
+gross,03,0300078,"a-2012, Proj G2 3.5%, imm & def",3.5%,Supp Conts with Life Conts,77149340,NA,77149340,NA,NA
+gross,03,0300079,2012 IAR 3.50% deferred NB,3.50%,Supp Conts with Life Conts,605352,NA,605352,NA,NA
+gross,03,0300080,2012 IAR 3.75% deferred NB,3.75%,Supp Conts with Life Conts,48704,NA,48704,NA,NA
+gross,03,0300081,"a-2012, Proj G2 3.75%, imm & def",3.75%,Supp Conts with Life Conts,119739182,NA,119739182,NA,NA
+gross,03,0300082,"a-2012, Proj G2 2.25%, imm & def",2.25%,Supp Conts with Life Conts,18911243,NA,18911243,NA,NA
+gross,03,0300083,"83 GAM, 5.5%",5.5%,Supp Conts with Life Conts,84009,NA,72327,NA,11682
+gross,03,0300084,"a-1949 Met*, 3.5%",3.5%,Supp Conts with Life Conts,104754,NA,104754,NA,NA
+gross,03,0300085,"94 GAM, 4%",4%,Supp Conts with Life Conts,20706046,NA,NA,NA,20706046
+gross,03,0300086,"Guarantee Duration, 3%",3%,Supp Conts with Life Conts,4361288,NA,NA,NA,4361288
+gross,03,0300087,"Guarantee Duration, 3.5%",3.5%,Supp Conts with Life Conts,3332654,NA,NA,NA,3332654
+gross,03,0300088,"Guarantee Duration, 4%",4%,Supp Conts with Life Conts,8774089,NA,NA,NA,8774089
+gross,03,0300089,"Guarantee Duration, 6%",6%,Supp Conts with Life Conts,28130,NA,NA,NA,28130
+gross,03,0300090,"Reference Period, 2%",2%,Supp Conts with Life Conts,6089342,NA,NA,NA,6089342
+gross,03,0300091,"Reference Period, 2.25%",2.25%,Supp Conts with Life Conts,2807868,NA,NA,NA,2807868
+gross,03,0300092,"Reference Period, 1.5%",1.5%,Supp Conts with Life Conts,1451798,NA,NA,NA,1451798
+gross,03,0300093,"Reference Period, 2.5%",2.5%,Supp Conts with Life Conts,3203347,NA,NA,NA,3203347
+gross,03,0300094,"Reference Period, 2.75%",2.75%,Supp Conts with Life Conts,6121529,NA,NA,NA,6121529
+gross,03,0300095,"Reference Period, 1.75%",1.75%,Supp Conts with Life Conts,639099,NA,NA,NA,639099
+gross,03,0300096,"a-2012, Proj G2.75%, imm & def",2.75%,Supp Conts with Life Conts,488349,NA,488349,NA,NA
+gross,03,0300097,"a-2012, Proj G2 1.25%, imm & def",1.25%,Supp Conts with Life Conts,8247361,NA,8247361,NA,NA
+gross,03,0300098,"a-2012, Proj G2 1.5%, imm & def",1.5%,Supp Conts with Life Conts,6131767,NA,6131767,NA,NA
+gross,03,0300099,"a-2012, Proj G2 1.75%, imm & def",1.75%,Supp Conts with Life Conts,5081774,NA,5081774,NA,NA
+gross,03,0300100,"a-2012, Proj G2 2%, imm & def",2%,Supp Conts with Life Conts,4509342,NA,4509342,NA,NA
+gross,03,0300101,"a-2012, Proj G2 2.5%, imm & def",2.5%,Supp Conts with Life Conts,13573247,NA,13573247,NA,NA
+gross,03,0300102,"a-2012, Proj G2 2.75%, imm & def",2.75%,Supp Conts with Life Conts,9989792,NA,9989792,NA,NA
+gross,03,0300103,"a-2012, Proj G2 3%, imm & def",3%,Supp Conts with Life Conts,18310348,NA,18310348,NA,NA
+gross,03,0300104,"a-2012, Proj G2 3.25%, imm & def",3.25%,Supp Conts with Life Conts,3754632,NA,3754632,NA,NA
+gross,03,0300105,"a-2012, Proj G2 4.25%, imm & def",4.25%,Supp Conts with Life Conts,6307666,NA,6307666,NA,NA
+gross,03,0300106,Interest Only 3.75%,3.75%,Supp Conts with Life Conts,1445,NA,1445,NA,NA
+gross,03,0300107,"Reference Period, .75%",.75%,Supp Conts with Life Conts,299606,NA,NA,NA,299606
+gross,03,0300108,"Reference Period, 1.25%",1.25%,Supp Conts with Life Conts,286794,NA,NA,NA,286794
+gross,04,0400001,"26 INTERCO DI, 2.5%, 33-65 (41 IND)",2.5%,Accidental Death Bens,487,487,NA,NA,NA
+gross,04,0400002,"26-33 INTERCO DI, 2.5%, 57-60",2.5%,Accidental Death Bens,72775,NA,72775,NA,NA
+gross,04,0400003,"59 ADB, 2.5%",2.5%,Accidental Death Bens,2503732,NA,2503732,NA,NA
+gross,04,0400004,"59 ADB, 80 CSO 2.5%, 87 and later, NB",2.5%,Accidental Death Bens,3499,NA,3499,NA,NA
+gross,04,0400005,"59 ADB, 80 CSO 2.5%, UL",2.5%,Accidental Death Bens,145242,NA,145242,NA,NA
+gross,04,0400006,"59 ADB, 3%, 58 and later, NB",3%,Accidental Death Bens,1967611,NA,1967611,NA,NA
+gross,04,0400007,"59 ADB, 3%, CRVM, 83",3%,Accidental Death Bens,1290,NA,1290,NA,NA
+gross,04,0400008,"59 ADB, 4%",4%,Accidental Death Bens,965382,NA,965382,NA,NA
+gross,04,0400009,"INTERCO DI, 2.5%, 48-65",2.5%,Accidental Death Bens,1343106,NA,1343106,NA,NA
+gross,04,0400010,"INTERCO DI, 4.5%, 48-64",4.5%,Accidental Death Bens,16128,16128,NA,NA,NA
+gross,04,0400011,1958 CSO & 1959 ADB 3.5%,3.5%,Accidental Death Bens,425,NA,425,NA,NA
+gross,04,0400012,59 ADB 3.5%,3.5%,Accidental Death Bens,719409,NA,719409,NA,NA
+gross,04,0400013,"59 ADB, 4.5%",4.5%,Accidental Death Bens,294337,NA,294337,NA,NA
+gross,04,0400014,"2001 CSO, 3.5%",3.5%,Accidental Death Bens,2065,NA,14,NA,2051
+gross,04,0400015,26-33 INTERCO DI 4%,4%,Accidental Death Bens,2566,NA,2566,NA,NA
+gross,04,0400016,"59 ADB, 5%",5%,Accidental Death Bens,47784,NA,47784,NA,NA
+gross,04,0400017,"59 ADB, 5.5%",5.5%,Accidental Death Bens,223169,NA,223169,NA,NA
+gross,04,0400018,"59 ADB, 6%",6%,Accidental Death Bens,210754,NA,210754,NA,NA
+gross,04,0400019,"59 ADB, 58 CSO, 2.5%",2.5%,Accidental Death Bens,273701,NA,273701,NA,NA
+gross,04,0400020,"59 ADB, 58 CSO, 3%",3%,Accidental Death Bens,900590,NA,900590,NA,NA
+gross,04,0400021,"59 ADB, 58CSO, 4%",4%,Accidental Death Bens,84208,NA,84208,NA,NA
+gross,04,0400022,"59 ADB, 58 CSO, 4.5%",4.5%,Accidental Death Bens,1795060,NA,1795060,NA,NA
+gross,04,0400023,"59 ADB, 58 CSO, 6%",6%,Accidental Death Bens,637749,NA,637749,NA,NA
+gross,04,0400024,"59 ADB, 80 CSO, 4%",4%,Accidental Death Bens,3130742,NA,3130742,NA,NA
+gross,04,0400025,"59 ADB, 80 CSO, 4.5%",4.5%,Accidental Death Bens,14241989,NA,14241989,NA,NA
+gross,04,0400026,"59 ADB, 80 CSO, 5%",5%,Accidental Death Bens,3527597,NA,3527597,NA,NA
+gross,04,0400027,"59 ADB, 80 CSO, 5.5%",5.5%,Accidental Death Bens,7371378,NA,7371378,NA,NA
+gross,04,0400028,"59 ADB, 80 CSO, 6%",6%,Accidental Death Bens,558295,NA,558295,NA,NA
+gross,04,0400029,"26 Class (3)*, 41 CSO 2.5%",2.5%,Accidental Death Bens,122656,NA,122656,NA,NA
+gross,05,0500001,MOD '35-39 INTER-CO '58 CSO 3%,3%,Disability - Active,124567,NA,124567,NA,NA
+gross,05,0500002,MOD '35-39 INTER-CO '80 CSO 4%,4%,Disability - Active,1238,NA,1238,NA,NA
+gross,05,0500003,"52 INTERCO DISA, Period 2*, 2.5%",2.5%,Disability - Active,8867,NA,8867,NA,NA
+gross,05,0500004,"52 INTERCO DISA, Period 2*, 80 CSO 2.5%, 87 and later, NB",2.5%,Disability - Active,99946,NA,99946,NA,NA
+gross,05,0500005,"52 INTERCO DISA, Period 2*, 80 CSO 2.5% UL, 90 and later",2.5%,Disability - Active,208508,NA,208508,NA,NA
+gross,05,0500006,"52 INTERCO DISA, Period 2, 3%, 61 and later, NB",3%,Disability - Active,7,NA,7,NA,NA
+gross,05,0500007,"91 MET LTCR 5.5%, 91 & Later, NB",5.5%,Disability - Active,212576,NA,212576,NA,NA
+gross,05,0500008,"Industrial Sight and Limb, modified, 2.5%, 33 and later, NB",2.5%,Disability - Active,13000515,811,12999704,NA,NA
+gross,05,0500009,"Industrial Sight and Limb, 4.5%, 42-47",4.5%,Disability - Active,1621065,1621065,NA,NA,NA
+gross,05,0500010,"Industrial Sight and Limb, modified, 4.5%, 48-64",4.5%,Disability - Active,1377979,1377979,NA,NA,NA
+gross,05,0500011,1958 CSO & '52 Dis Study (Per 2) 3.5%,3.5%,Disability - Active,36609,NA,36609,NA,NA
+gross,05,0500012,"52 INTERCO DISA, Period 2*, 01 CSO, 4.0%",4.0%,Disability - Active,7090870,NA,7090870,NA,NA
+gross,05,0500013,"26 Class (3)*, 41 CSO 2.50%",2.50%,Disability - Active,6385,NA,6385,NA,NA
+gross,05,0500014,"26 Class (3)*, 58 CSO 2.75%",2.75%,Disability - Active,260865,NA,260865,NA,NA
+gross,05,0500015,"52 INTERCO DISA, Period 2*, 58 CSO, 2.50%",2.50%,Disability - Active,203133,NA,203133,NA,NA
+gross,05,0500016,"52 INTERCO DISA, Period 2*, 58 CSO, 2.75%",2.75%,Disability - Active,454718,NA,454718,NA,NA
+gross,05,0500017,"52 INTERCO DISA, Period 2*, 58 CSO, 4%",4%,Disability - Active,1620275,NA,1620275,NA,NA
+gross,05,0500018,"52 INTERCO DISA, Period 2*, 58 CSO, 4.50%",4.50%,Disability - Active,2320940,NA,2320940,NA,NA
+gross,05,0500019,"52 INTERCO DISA, Period 2*, 80 CSO, 4%",4%,Disability - Active,9713306,NA,9713306,NA,NA
+gross,05,0500020,"52 INTERCO DISA, Period 2*, 80 CSO, 4.25%",4.25%,Disability - Active,3443,NA,3443,NA,NA
+gross,05,0500021,"52 INTERCO DISA, Period 2*, 80 CSO, 4.50%",4.50%,Disability - Active,82040943,NA,82040943,NA,NA
+gross,05,0500022,"52 INTERCO DISA, Period 2*, 01 CSO, 3.5% NB",3.5%,Disability - Active,2443781,NA,2443781,NA,NA
+gross,05,0500023,"52 INTERCO DISA, Period 2*, 01 CSO, 4.5%",4.5%,Disability - Active,7,NA,7,NA,NA
+gross,05,0500024,"2001 CSO, 3.5%",3.5%,Disability - Active,4570,NA,NA,NA,4570
+gross,05,0500025,MOD '35-39 INTER-CO '58 CSO 4%,4%,Disability - Active,126060,NA,126060,NA,NA
+gross,05,0500026,MOD '35-39 INTER-CO '58 CSO 4.5%,4.5%,Disability - Active,125914,NA,125914,NA,NA
+gross,05,0500027,MOD '35-39 INTER-CO '58 CSO 5.5%,5.5%,Disability - Active,5622,NA,5622,NA,NA
+gross,05,0500028,MOD '35-39 INTER-CO '58 CSO 6%,6%,Disability - Active,174475,NA,174475,NA,NA
+gross,05,0500029,MOD '35-39 INTER-CO '80 CSO 4.5%,4.5%,Disability - Active,190589,NA,190589,NA,NA
+gross,05,0500030,MOD '35-39 INTER-CO '80 CSO 5%,5%,Disability - Active,171044,NA,171044,NA,NA
+gross,05,0500031,MOD '35-39 INTER-CO '80 CSO 5.5%,5.5%,Disability - Active,410810,NA,410810,NA,NA
+gross,05,0500032,MOD '35-39 INTER-CO '80 CSO 6%,6%,Disability - Active,8953,NA,8953,NA,NA
+gross,05,0500033,"52 INTERCO DISA, Period 2*, 17 CSO, 3.5%",3.5%,Disability - Active,34,NA,34,NA,NA
+gross,06,0600001,"26 Class (3)*, 2.5%, 32-64",2.5%,Disability - Disabled,1841,NA,1841,NA,NA
+gross,06,0600002,MOD '30-50 INTER-CO '58 CSO 3%,3%,Disability - Disabled,352178,NA,352178,NA,NA
+gross,06,0600003,"52 INTERCO DISA, 30-50 termination rates*, 2.5%, 65 and later, NB",2.5%,Disability - Disabled,272000,NA,272000,NA,NA
+gross,06,0600004,"52 INTERCO DISA, 30-50 termination rates, 3%, 31 & prior, cert ben 61 & later, NB",3%,Disability - Disabled,310788,NA,310788,NA,NA
+gross,06,0600005,"52 INTERCO DISA, 30-50 termination rates*, 3%, UL, 83 and later",3%,Disability - Disabled,13387189,NA,13387189,NA,NA
+gross,06,0600006,"52 INTERCO DISA, 30-50 termination rates, 3.5%, Gr Lf Inc Bn, All Years",3.5%,Disability - Disabled,1849406,NA,NA,NA,1849406
+gross,06,0600007,"52 INTERCO DISA, 30-50 termination rates, 4%, Gr Lf Inc Bn 79 & later, NB",4%,Disability - Disabled,8914503,NA,NA,NA,8914503
+gross,06,0600008,"52 INTERCO DISA, 30-50 termination rates*, 4.5%, UL",4.5%,Disability - Disabled,29730691,NA,29730691,NA,NA
+gross,06,0600009,"64 CDT, 2.5%",2.5%,Disability - Disabled,147088,NA,NA,NA,147088
+gross,06,0600010,"70 INTERCO DISA, 3%",3%,Disability - Disabled,632541,NA,NA,NA,632541
+gross,06,0600011,"87 CDT, 4.5%,",4.5%,Disability - Disabled,936973,NA,NA,NA,936973
+gross,06,0600012,"87 CDT, 5%,",5%,Disability - Disabled,225405,NA,NA,NA,225405
+gross,06,0600013,"87 CDT, 5.5%",5.5%,Disability - Disabled,713353,NA,NA,NA,713353
+gross,06,0600014,1952 Dis Study (Per 2) 3.5%,3.5%,Disability - Disabled,39922,NA,39922,NA,NA
+gross,06,0600015,"70 INTERCO DISA, 3%, GR LF EX DTH BN, all years",3%,Disability - Disabled,1987067,NA,NA,NA,1987067
+gross,06,0600016,"70 INTERCO DISA, 3.5%, GR LF EX DTH BN, 78 & prior",3.5%,Disability - Disabled,1256856,NA,NA,NA,1256856
+gross,06,0600017,"70 INTERCO DISA, 4%, GR LF EX DTH BN, 79 & later, NB",4%,Disability - Disabled,12484557,NA,NA,NA,12484557
+gross,06,0600018,"70 INTERCO DISA, 4.5%, GR LF EX DTH BN, 92 & later, NB",4.5%,Disability - Disabled,4858340,NA,NA,NA,4858340
+gross,06,0600019,"70 INTERCO DISA, 5%, GR LF EX DTH BN, 93-94, 97 & later, NB",5%,Disability - Disabled,573728,NA,NA,NA,573728
+gross,06,0600020,"70 INTERCO DISA, 5.5%, GR LF EX DTH BN, 88-92",5.5%,Disability - Disabled,590338,NA,NA,NA,590338
+gross,06,0600021,"2005 SOA GRP WAIVER (MOD), 3.5%, 78 & prior",3.5%,Disability - Disabled,717764822,NA,NA,NA,717764822
+gross,06,0600022,"2005 SOA GRP WAIVER (MOD), 4%, 79 & later, NB",4%,Disability - Disabled,312681566,NA,NA,NA,312681566
+gross,06,0600023,"2005 SOA GRP WAIVER (MOD), 4.5%, 92 & later, NB",4.5%,Disability - Disabled,13369709,NA,NA,NA,13369709
+gross,06,0600024,"2005 SOA GRP WAIVER (MOD), 6%, 91 & prior",6%,Disability - Disabled,26436513,NA,NA,NA,26436513
+gross,06,0600025,"2005 SOA GRP WAIVER (MOD), 4%, UL, 79 & later, NB",4%,Disability - Disabled,20374565,NA,NA,NA,20374565
+gross,06,0600026,"2005 SOA GRP WAIVER (MOD), 4.5%, UL, 92 & later, NB",4.5%,Disability - Disabled,155533,NA,NA,NA,155533
+gross,06,0600027,"70 INTERCO DISA, 4.5% NSP, SINCE 1995",4.5%,Disability - Disabled,14807843,NA,NA,NA,14807843
+gross,06,0600028,"70 INTERCO DISA, 5.0% NSP, 1993-1994",5.0%,Disability - Disabled,113004,NA,NA,NA,113004
+gross,06,0600029,"70 INTERCO DISA, 5.5% NSP, 1986-1992",5.5%,Disability - Disabled,123201,NA,NA,NA,123201
+gross,06,0600030,"26 Class (3)*, 41 CSO 2.50%",2.50%,Disability - Disabled,6105,NA,6105,NA,NA
+gross,06,0600031,"26 Class (3)*, 58 CSO 2.75%",2.75%,Disability - Disabled,96028,NA,96028,NA,NA
+gross,06,0600032,"52 INTERCO DISA, Period 2*, 01 CSO, 4%",4%,Disability - Disabled,7400179,NA,7387028,NA,13151
+gross,06,0600033,"52 INTERCO DISA, Period 2*, 58 CSO, 2.50%",2.50%,Disability - Disabled,39440,NA,39440,NA,NA
+gross,06,0600034,"52 INTERCO DISA, Period 2*, 58 CSO, 2.75%",2.75%,Disability - Disabled,10182860,NA,10182860,NA,NA
+gross,06,0600035,"52 INTERCO DISA, Period 2*, 58 CSO, 4%",4%,Disability - Disabled,337863,NA,337863,NA,NA
+gross,06,0600036,"52 INTERCO DISA, Period 2*, 58 CSO, 4.50%",4.50%,Disability - Disabled,1686805,NA,1686805,NA,NA
+gross,06,0600037,"52 INTERCO DISA, Period 2*, 80 CSO, 2.50%",2.50%,Disability - Disabled,78899,NA,78899,NA,NA
+gross,06,0600038,"52 INTERCO DISA, Period 2*, 80 CSO, 4%",4%,Disability - Disabled,6406236,NA,6351198,NA,55038
+gross,06,0600039,"52 INTERCO DISA, Period 2*, 80 CSO, 4.25%",4.25%,Disability - Disabled,1195,NA,1195,NA,NA
+gross,06,0600040,"52 INTERCO DISA, Period 2*, 80 CSO, 4.50%",4.50%,Disability - Disabled,182846342,NA,180056141,NA,2790201
+gross,06,0600041,"01 CSO, 3.5%",3.5%,Disability - Disabled,1958417,NA,NA,NA,1958417
+gross,06,0600042,"52 INTERCO DISA, Period 2*, 01 CSO, 3.5%",3.5%,Disability - Disabled,6285315,NA,6285315,NA,NA
+gross,06,0600043,"52 INTERCO DISA, Period 2*, 01 CSO, 4.5%",4.5%,Disability - Disabled,31786,NA,31786,NA,NA
+gross,06,0600044,MOD '30-50 INTER-CO '58 CSO 4%,4%,Disability - Disabled,430112,NA,430112,NA,NA
+gross,06,0600045,MOD '30-50 INTER-CO '58 CSO 4.5%,4.5%,Disability - Disabled,258432,NA,258432,NA,NA
+gross,06,0600046,MOD '30-50 INTER-CO '58 CSO 5.5%,5.5%,Disability - Disabled,23007,NA,23007,NA,NA
+gross,06,0600047,MOD '30-50 INTER-CO '58 CSO 6%,6%,Disability - Disabled,342418,NA,342418,NA,NA
+gross,06,0600048,MOD '30-50 INTER-CO '80 CSO 4.5%,4.5%,Disability - Disabled,546333,NA,546333,NA,NA
+gross,06,0600049,MOD '30-50 INTER-CO '80 CSO 5%,5%,Disability - Disabled,419756,NA,419756,NA,NA
+gross,06,0600050,MOD '30-50 INTER-CO '80 CSO 5.5%,5.5%,Disability - Disabled,1019251,NA,1019251,NA,NA
+gross,06,0600051,MOD '30-50 INTER-CO '80 CSO 6%,6%,Disability - Disabled,11721,NA,11721,NA,NA
+gross,06,0600052,"2017 CSO, 3.5%",3.5%,Disability - Disabled,25259,NA,NA,NA,25259
+gross,07,0700001,For excess of valuation net premiums over corresponding gross premiums,NA,Miscellaneous,643117925,NA,602452612,NA,40665313
+gross,07,0700002,schedule                                                                                                                      ,NA,Miscellaneous,8516249,NA,8516249,NA,NA
+gross,07,0700003,"For extra mortality on pol. converted from Grp, computed at 5%, 93 and later",5%,Miscellaneous,106715957,NA,NA,NA,106715957
+gross,07,0700004,For non-UL adjustments not included in Section A above,NA,Miscellaneous,395964882,NA,NA,NA,395964882
+gross,07,0700005,For UL adjustments not included in Section A above,NA,Miscellaneous,103491001,NA,145272,NA,103345729
+gross,07,0700006,For variable life insurance minimum death benefit guarantees,NA,Miscellaneous,30632259,NA,30632259,NA,NA
+gross,07,0700007,Earnings enhancement benefits,NA,Miscellaneous,7267,NA,7267,NA,NA
+gross,07,0700008,Additional actuarial reserves- Asset/liability analysis,NA,Miscellaneous,217736033,NA,NA,NA,217736033
+gross,07,0700009,Variable Annuity Excess Reserve,NA,Miscellaneous,1184445724,NA,1097987717,NA,86458007
+gross,07,0700010,"2017 CSO, 3.5%",3.5%,Miscellaneous,9580,NA,9391,NA,189
+gross,07,0700011,For extra mortality on policies converted from term,NA,Miscellaneous,23367,NA,23367,NA,NA
+ceded,01,0199998,Reinsurance ceded,NA,Life Insurance,-15139610915,-332069267,-14803260082,NA,-4281566
+ceded,02,0299998,Reinsurance ceded,NA,Annuities,-864471523,NA,-4314517,NA,-860157006
+ceded,04,0499998,Reinsurance ceded,NA,Accidental Death Bens,-15988581,-4962,-15983619,NA,NA
+ceded,05,0599998,Reinsurance ceded,NA,Disability - Active,-41649531,-922320,-40727211,NA,NA
+ceded,06,0699998,Reinsurance ceded,NA,Disability - Disabled,-58114700,NA,-52867298,NA,-5247402
+ceded,07,0799998,Reinsurance ceded,NA,Miscellaneous,-147167522,NA,-147167522,NA,NA
